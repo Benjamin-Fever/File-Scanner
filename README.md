@@ -15,7 +15,7 @@ This reads a file one word or number at a time:
 
     import Scanner
     
-    scan = Scanner("*insert file path")   <- Replace inser file path with the file you wish to read
+    scan = Scanner("*insert file path")   <- Replace insery file path with the file you wish to read
     scan.next()                           <- Returns the next word as a string
     scan.nextInt()                        <- Returns the next int this will set its possition at this point
     scan.nextFloat()                      <- Returns the next float, works same as nextInt()
