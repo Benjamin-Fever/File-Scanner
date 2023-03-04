@@ -11,7 +11,7 @@ You can easily scan through a file from a specified path.
 Download the Scanner.py script in the src file and add to your project
 
 <h3>Example</h3>
-This reads a file one word or number at a time. 
+This reads a file one word or number at a time:
 
     import Scanner
     
